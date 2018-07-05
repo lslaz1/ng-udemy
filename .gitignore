@@ -4,6 +4,9 @@
 /dist
 /tmp
 /out-tsc
+/bin
+/include
+/lib
 
 # dependencies
 /node_modules
@@ -36,4 +39,5 @@ testem.log
 
 # System Files
 .DS_Store
+.Python
 Thumbs.db
